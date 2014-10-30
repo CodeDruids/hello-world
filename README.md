@@ -15,7 +15,7 @@ HelloWorld is a simple "hello world" style class for testing a simple Composer-b
 
 Add the following to your `composer.json`:
 
-```
+```json
 "require": {
 	"CodeDruids/hello-world": "1.*"
 },
